@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "debug": "^3.1.0",
-    "koa-send": "^5.0.0"
+    "koa-send": "https://github.com/Nightw0rk/send"
   },
   "scripts": {
     "lint": "eslint --fix .",
